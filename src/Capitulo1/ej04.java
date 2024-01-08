@@ -12,7 +12,7 @@ public class ej04 {
 		
 		System.out.printf("El número %d no tiene decimales.\n", 21);
 		System.out.printf("El número %f sale con decimales.\n", 21.0);
-		System.out.printf("El %.3f sale exactamente con 3 decimales.\n", 21.0);
+		System.out.printf("El %.3f sale exactamente con 3 decimales.\n", 21.0); // se puede variar los decimales en base al numero indicado %,2f.
 	}
 
 }
