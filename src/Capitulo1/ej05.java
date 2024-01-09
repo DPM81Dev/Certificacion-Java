@@ -1,7 +1,5 @@
 package Capitulo1;
 
-import java.util.Iterator;
-
 public class ej05 {
 
 	public static void main(String[] args) {
